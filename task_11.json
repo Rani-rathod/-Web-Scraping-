@@ -1,0 +1,15 @@
+{
+    "Adventure": 300,
+    "Action": 311,
+    "Comedy": 304,
+    "History": 281,
+    "Sci-fi": 258,
+    "Fantasy": 292,
+    "Drama": 265,
+    "Horror": 82,
+    "Western": 312,
+    "Mystery&thriller": 255,
+    "Kids&family": 239,
+    "Animation": 296,
+    "Crime": 314
+}
