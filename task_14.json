@@ -1,0 +1,602 @@
+{
+  " /celebrity/chadwick_boseman ": {
+    "name": "Chadwick Boseman",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/chadwick_boseman ",
+        "name": "Chadwick Boseman",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/michael_b_jordan ": {
+    "name": "Michael B. Jordan",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/michael_b_jordan ",
+        "name": "Michael B. Jordan",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/lupita_nyongo ": {
+    "name": "Lupita Nyong'o",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/lupita_nyongo ",
+        "name": "Lupita Nyong'o",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/danai-gurira ": {
+    "name": "Danai Gurira",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/danai-gurira ",
+        "name": "Danai Gurira",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/martin_freeman ": {
+    "name": "Martin Freeman",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/martin_freeman ",
+        "name": "Martin Freeman",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/daniel_kaluuya ": {
+    "name": "Daniel Kaluuya",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/daniel_kaluuya ",
+        "name": "Daniel Kaluuya",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/robert_downey_jr ": {
+    "name": "Robert Downey Jr.",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/robert_downey_jr ",
+        "name": "Robert Downey Jr.",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/chris_evans ": {
+    "name": "Chris Evans",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/chris_evans ",
+        "name": "Chris Evans",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/mark_ruffalo ": {
+    "name": "Mark Ruffalo",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/mark_ruffalo ",
+        "name": "Mark Ruffalo",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/chris-hemsworth ": {
+    "name": "Chris Hemsworth",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/chris-hemsworth ",
+        "name": "Chris Hemsworth",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/scarlett_johansson ": {
+    "name": "Scarlett Johansson",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/scarlett_johansson ",
+        "name": "Scarlett Johansson",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/jeremy_renner ": {
+    "name": "Jeremy Renner",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/jeremy_renner ",
+        "name": "Jeremy Renner",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/tom_cruise ": {
+    "name": "Tom Cruise",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/tom_cruise ",
+        "name": "Tom Cruise",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/henry_cavill ": {
+    "name": "Henry Cavill",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/henry_cavill ",
+        "name": "Henry Cavill",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/ving_rhames ": {
+    "name": "Ving Rhames",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/ving_rhames ",
+        "name": "Ving Rhames",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/simon_pegg ": {
+    "name": "Simon Pegg",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/simon_pegg ",
+        "name": "Simon Pegg",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/rebecca_ferguson ": {
+    "name": "Rebecca Ferguson",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/rebecca_ferguson ",
+        "name": "Rebecca Ferguson",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/sean_harris ": {
+    "name": "Sean Harris",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/sean_harris ",
+        "name": "Sean Harris",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/tom_hardy ": {
+    "name": "Tom Hardy",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/tom_hardy ",
+        "name": "Tom Hardy",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/charlize_theron ": {
+    "name": "Charlize Theron",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/charlize_theron ",
+        "name": "Charlize Theron",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/nicholas_hoult ": {
+    "name": "Nicholas Hoult",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/nicholas_hoult ",
+        "name": "Nicholas Hoult",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/1008104-hugh_keaysbyrne ": {
+    "name": "Hugh Keays-Byrne",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/1008104-hugh_keaysbyrne ",
+        "name": "Hugh Keays-Byrne",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/josh_helman ": {
+    "name": "Josh Helman",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/josh_helman ",
+        "name": "Josh Helman",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/nathan_jones ": {
+    "name": "Nathan Jones",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/nathan_jones ",
+        "name": "Nathan Jones",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/shameik_moore ": {
+    "name": "Shameik Moore",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/shameik_moore ",
+        "name": "Shameik Moore",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/jake_johnson_2 ": {
+    "name": "Jake Johnson",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/jake_johnson_2 ",
+        "name": "Jake Johnson",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/hailee_steinfeld ": {
+    "name": "Hailee Steinfeld",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/hailee_steinfeld ",
+        "name": "Hailee Steinfeld",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/mahershala_ali ": {
+    "name": "Mahershala Ali",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/mahershala_ali ",
+        "name": "Mahershala Ali",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/brian_tyree_henry ": {
+    "name": "Brian Tyree Henry",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/brian_tyree_henry ",
+        "name": "Brian Tyree Henry",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/lily_tomlin ": {
+    "name": "Lily Tomlin",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/lily_tomlin ",
+        "name": "Lily Tomlin",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/gal-gadot ": {
+    "name": "Gal Gadot",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/gal-gadot ",
+        "name": "Gal Gadot",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/christopher_pine ": {
+    "name": "Chris Pine",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/christopher_pine ",
+        "name": "Chris Pine",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/connie_nielsen ": {
+    "name": "Connie Nielsen",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/connie_nielsen ",
+        "name": "Connie Nielsen",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/robin_wright ": {
+    "name": "Robin Wright",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/robin_wright ",
+        "name": "Robin Wright",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/danny_huston ": {
+    "name": "Danny Huston",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/danny_huston ",
+        "name": "Danny Huston",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/david_thewlis ": {
+    "name": "David Thewlis",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/david_thewlis ",
+        "name": "David Thewlis",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/hugh_jackman ": {
+    "name": "Hugh Jackman",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/hugh_jackman ",
+        "name": "Hugh Jackman",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/patrick_stewart ": {
+    "name": "Patrick Stewart",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/patrick_stewart ",
+        "name": "Patrick Stewart",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/dafne_keen ": {
+    "name": "Dafne Keen",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/dafne_keen ",
+        "name": "Dafne Keen",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/richard_grant ": {
+    "name": "Richard E. Grant",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/richard_grant ",
+        "name": "Richard E. Grant",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/doris_morgado ": {
+    "name": "Doris Morgado",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/doris_morgado ",
+        "name": "Doris Morgado",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/boyd_holbrook ": {
+    "name": "Boyd Holbrook",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/boyd_holbrook ",
+        "name": "Boyd Holbrook",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/anthony_gonzalez_4 ": {
+    "name": "Anthony Gonzalez",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/anthony_gonzalez_4 ",
+        "name": "Anthony Gonzalez",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/gael_garcia_bernal ": {
+    "name": "Gael Garc\u00eda Bernal",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/gael_garcia_bernal ",
+        "name": "Gael Garc\u00eda Bernal",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/benjamin_bratt ": {
+    "name": "Benjamin Bratt",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/benjamin_bratt ",
+        "name": "Benjamin Bratt",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/alanna_ubach ": {
+    "name": "Alanna Ubach",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/alanna_ubach ",
+        "name": "Alanna Ubach",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/jaime_camil ": {
+    "name": "Jaime Camil",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/jaime_camil ",
+        "name": "Jaime Camil",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/alfonso_arau ": {
+    "name": "Alfonso Arau",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/alfonso_arau ",
+        "name": "Alfonso Arau",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/fionn_whitehead ": {
+    "name": "Fionn Whitehead",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/fionn_whitehead ",
+        "name": "Fionn Whitehead",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/tom_glynn_carney ": {
+    "name": "Tom Glynn-Carney",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/tom_glynn_carney ",
+        "name": "Tom Glynn-Carney",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/jack_lowden ": {
+    "name": "Jack Lowden",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/jack_lowden ",
+        "name": "Jack Lowden",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/harry_styles ": {
+    "name": "Harry Styles",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/harry_styles ",
+        "name": "Harry Styles",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/aneurin_barnard ": {
+    "name": "Aneurin Barnard",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/aneurin_barnard ",
+        "name": "Aneurin Barnard",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/james_darcy ": {
+    "name": "James D'Arcy",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/james_darcy ",
+        "name": "James D'Arcy",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/mark_hamill ": {
+    "name": "Mark Hamill",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/mark_hamill ",
+        "name": "Mark Hamill",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/carrie_fisher ": {
+    "name": "Carrie Fisher",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/carrie_fisher ",
+        "name": "Carrie Fisher",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/adam_driver ": {
+    "name": "Adam Driver",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/adam_driver ",
+        "name": "Adam Driver",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/daisy_ridley ": {
+    "name": "Daisy Ridley",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/daisy_ridley ",
+        "name": "Daisy Ridley",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/john_boyega ": {
+    "name": "John Boyega",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/john_boyega ",
+        "name": "John Boyega",
+        "num_movies": 1
+      }
+    ]
+  },
+  " /celebrity/oscar-isaac ": {
+    "name": "Oscar Isaac",
+    "frequent_co_actors": [
+      {
+        "imdb_id": " /celebrity/oscar-isaac ",
+        "name": "Oscar Isaac",
+        "num_movies": 1
+      }
+    ]
+  }
+}
